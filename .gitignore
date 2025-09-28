@@ -1,0 +1,13 @@
+# Bỏ qua thư mục build của Quartus
+db/
+incremental_db/
+output_files/
+
+# Bỏ qua file tạm
+*.rdr
+*.bak
+*.lock
+*.flock
+
+# Bỏ qua file log và text không cần thiết
+*.txt
